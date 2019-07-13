@@ -18,9 +18,6 @@ def hopper
 programmer_hash[:grace_hopper]
 end
 
-alan_kay_is_known_for
-end
-
 def alan_kay_is_known_for
 	# What combination of keys would you use to return the value of the :known_for key of :alan_kay?
 	
