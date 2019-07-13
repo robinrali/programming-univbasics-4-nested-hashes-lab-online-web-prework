@@ -56,7 +56,7 @@ def dennis_ritchies_language
         }
         programmer_hash
         
-        dennis_ritchies_language['C']
+dennis_ritchies_language['C']
      }
 end
 
